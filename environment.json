@@ -1,0 +1,9 @@
+{
+  "python": "3.13.16",
+  "torch": "2.11.0+cpu",
+  "torchvision": "0.26.0+cpu",
+  "cpu": "Intel(R) Xeon(R) CPU @ 2.20GHz",
+  "cpu_cores_available": 2,
+  "quantization_engine": "fbgemm",
+  "threads_used_for_timing": 1
+}

@@ -1,0 +1,5 @@
+Method,Size_MB,Median_ms,Agreement_pct
+Original float32,44.59,92.97,100.0
+Dynamic int8,43.13,92.54,98.0
+Static int8 (noise),11.29,41.98,93.54
+Static int8 (real),11.29,42.34,95.72
