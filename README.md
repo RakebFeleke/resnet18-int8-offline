@@ -77,4 +77,4 @@ Oxford-IIIT Pet Dataset (via torchvision.datasets.OxfordIIITPet). Please check i
 
 ## Author
 
-YOUR NAME HERE
+Rakeb Biruk Feleke
